@@ -33,7 +33,7 @@ You can find these categorized by topic in [`top_150/`](./top_150/).
 
 ## ❓ Custom Questions
 
-Sometimes I write or gather interesting questions and solve them. Check them out in [`Custom_Questions/`](./custom_questions/).
+Sometimes I write or gather interesting questions and solve them. Check them out in [`custom_questions/`](./Custom_Questions/).
 
 ---
 
