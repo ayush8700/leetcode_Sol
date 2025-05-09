@@ -6,7 +6,7 @@ Welcome to my LeetCode repository where I commit daily solutions to the LeetCode
 
 ## 📅 Daily Challenges
 
-Every day, I post my solution to the LeetCode Daily Challenge in the [`daily/`](./daily/) directory. Each file includes:
+Every day, I post my solution to the LeetCode Daily Challenge in the [`daily/`](./Daily/) directory. Each file includes:
 - ✅ Problem link
 - 🔍 My approach
 - 💻 Python code
@@ -16,7 +16,7 @@ Every day, I post my solution to the LeetCode Daily Challenge in the [`daily/`](
 
 ## 🏆 Weekly & Biweekly Challenges
 
-All contest solutions are categorized under [`challenges/`](./challenges/), labeled by contest number.
+All contest solutions are categorized under [`challenges/`](./Challenges/), labeled by contest number.
 
 ---
 
