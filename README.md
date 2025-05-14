@@ -27,7 +27,7 @@ I'm working through:
 - Blind 75
 - Neetcode 150
 
-You can find these categorized by topic in [`top_150/`](./top_150/).
+You can find these categorized by topic in [`Striver's_SDE_Sheet/`](./Striver's_SDE_Sheet/).
 
 ---
 
